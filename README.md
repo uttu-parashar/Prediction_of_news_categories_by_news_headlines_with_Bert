@@ -43,6 +43,12 @@ Just for the completeness it has bellow given columns :
 
 
 
+### ** Training Results : ** --
+
+![Screenshot (22)](https://user-images.githubusercontent.com/61959483/128492661-8b7e0920-e48e-414f-ab07-13a877c06d17.png)
+
+
+
 
 
 
