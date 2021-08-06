@@ -17,4 +17,9 @@ Just for the completeness it has bellow given columns :
         6- STORY - Alphanumeric ID of the cluster that includes news about the same story
         7- HOSTNAME - Url hostname
         8- TIMESTAMP - Approximate time the news was published, as the number of milliseconds since the epoch 00:00:00 GMT,    January 1,1970
+ 
+### Ploting Distribution of Categories in which our headlines belongs :(Target-Feature)
+![download](https://user-images.githubusercontent.com/61959483/128489750-2f41ca80-a416-409c-887c-a4e7e37b5706.png)
+
+
 
