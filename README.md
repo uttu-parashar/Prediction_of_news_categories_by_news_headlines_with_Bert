@@ -36,6 +36,12 @@ Just for the completeness it has bellow given columns :
 ![Screenshot (19)](https://user-images.githubusercontent.com/61959483/128491132-8265b11d-8b6b-423f-a562-a3fb1f7c4fa0.png)
 
 
+### ** This is how our whole model_architecture looks like ** --
+###### instead of Bi-Gru ,we will use a MLP.
+
+![Hierarchical-model-for-stance-classification-A-pre-trained-BERT-model-is-used-to-encode](https://user-images.githubusercontent.com/61959483/128492341-30eafe80-2cab-4266-99ec-5225abf00878.png)
+
+
 
 
 
