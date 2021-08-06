@@ -54,6 +54,29 @@ Just for the completeness it has bellow given columns :
 
 ### ** Combing whole data pipeline in just one function & Predicting categories of some random headlines by our model : ** --
 
+#### Predicting Category of Sample_Headline_1 :
+![Screenshot (26)](https://user-images.githubusercontent.com/61959483/128493844-7ea384ff-52eb-4573-a4f0-5c23f11caecf.png)
+
+#### Predicting Category of Sample_Headline_2 :
+![Screenshot (27)](https://user-images.githubusercontent.com/61959483/128493903-8b15518c-27ed-4af1-92c6-e8b6db51925a.png)
+
+
+#### Predicting Category of Sample_Headline_3 :
+![Screenshot (28)](https://user-images.githubusercontent.com/61959483/128493933-cbc48d2e-7310-49a0-9eac-d9a74d8c6a6b.png)
+
+
+#### Predicting Category of Sample_Headline_4 :
+
+![Screenshot (29)](https://user-images.githubusercontent.com/61959483/128493980-c1b68d73-408c-4fe8-a0d7-f4ad1a8b33a0.png)
+
+
+
+
+
+
+
+
+
 
 
 
