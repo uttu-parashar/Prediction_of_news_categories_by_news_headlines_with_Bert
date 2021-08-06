@@ -48,6 +48,8 @@ Just for the completeness it has bellow given columns :
 ![Screenshot (22)](https://user-images.githubusercontent.com/61959483/128492661-8b7e0920-e48e-414f-ab07-13a877c06d17.png)
 
 
+### ** Tensorboard Log : ** --
+![Screenshot (23)](https://user-images.githubusercontent.com/61959483/128492973-37c306cb-9d97-476c-8b32-03af2fb94da5.png)
 
 
 
