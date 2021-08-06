@@ -52,7 +52,7 @@ Just for the completeness it has bellow given columns :
 ![Screenshot (23)](https://user-images.githubusercontent.com/61959483/128492973-37c306cb-9d97-476c-8b32-03af2fb94da5.png)
 
 
-### ** Combing whole data pipeline in just one function : ** --
+### ** Combing whole data pipeline in just one function & Predicting categories of some random headlines by our model : ** --
 
 
 
