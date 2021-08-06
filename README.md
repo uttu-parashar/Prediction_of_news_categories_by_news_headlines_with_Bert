@@ -4,9 +4,11 @@
 
 ### ** Introduction of the Dataset we have. **
 The dataset we will use here, I get it from machine Learning Reporsitiry of University Of california. The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms. Please go through the bellow link To know more about the dataset 
+
      https://archive.ics.uci.edu/ml/datasets/News+Aggregator
      
 Just for the completeness it has bellow given columns :
+
         1- ID - Numeric ID
         2- TITLE - News title or Headline
         3- URL - Url
