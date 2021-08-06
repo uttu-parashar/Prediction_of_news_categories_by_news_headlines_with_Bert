@@ -18,11 +18,29 @@ Just for the completeness it has bellow given columns :
         7- HOSTNAME - Url hostname
         8- TIMESTAMP - Approximate time the news was published, as the number of milliseconds since the epoch 00:00:00 GMT,    January 1,1970
  
-### Ploting Distribution of Categories in which our headlines belongs :(Target-Feature)
+### ** Ploting Distribution of Categories in which our headlines belongs :(Target-Feature) **
 ![download](https://user-images.githubusercontent.com/61959483/128489750-2f41ca80-a416-409c-887c-a4e7e37b5706.png)
 
-### Ploting Distribution of Categories in which our new_subset of headlines belongs :(Target-Feature)
-![download (1)](https://user-images.githubusercontent.com/61959483/128490013-df349fb2-9be5-4be7-a479-48b5ae5b154e.png)
+### ** Some sample Headlines ** --
+
+#### Sample Headlines Which Belongs to Entertainment Category :
+![Screenshot (16)](https://user-images.githubusercontent.com/61959483/128490829-2e92835a-767e-4628-9934-16e695b8b913.png)
+
+#### Sample Headlines Which Belongs to business Category.
+![Screenshot (17)](https://user-images.githubusercontent.com/61959483/128490956-beb10841-9069-4621-b6af-62ef347fd9bf.png)
+
+#### Sample Headlines Which Belongs to science_and_technology Category.
+![Screenshot (18)](https://user-images.githubusercontent.com/61959483/128491055-a2639faf-7e2b-45bf-8061-55279d5a3114.png)
+
+#### Sample Headlines Which Belongs to health Category.
+![Screenshot (19)](https://user-images.githubusercontent.com/61959483/128491132-8265b11d-8b6b-423f-a562-a3fb1f7c4fa0.png)
+
+
+
+
+
+
+
 
 
 
