@@ -21,5 +21,8 @@ Just for the completeness it has bellow given columns :
 ### Ploting Distribution of Categories in which our headlines belongs :(Target-Feature)
 ![download](https://user-images.githubusercontent.com/61959483/128489750-2f41ca80-a416-409c-887c-a4e7e37b5706.png)
 
+### Ploting Distribution of Categories in which our new_subset of headlines belongs :(Target-Feature)
+![download (1)](https://user-images.githubusercontent.com/61959483/128490013-df349fb2-9be5-4be7-a479-48b5ae5b154e.png)
+
 
 
